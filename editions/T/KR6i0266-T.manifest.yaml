@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6i0266/T/v1
+canonical_location: https://kanripo.org/bkk/KR6i0266/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說放鉢經
+  identifiers:
+    krp: KR6i0266
+    cbeta: T15n0629
+    cbeta_old_id: T15n0629
+    authorityid: CA0001011
+    json_key: T0629
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T15/T15n0629.xml
+    old_id: T15n0629
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0266_000-T.yaml, hash: 'sha256:e84a5d3db6a36c1319df6d69ed974d289a9d17c6f5a75151da2af87715a3240f'}
+  - {seq: 1, filename: KR6i0266_001-T.yaml, hash: 'sha256:40c7953423415dd5bc3f9c9a436c321d031a06db19f21874c7b483f65fcc2d65'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0266_000-T.markers.yaml, hash: 'sha256:defd3a73d4576669fc935c85339bba6cee8df7b6962bce30cc769fb0d1834e76'}
+  - {seq: 1, role: markers, filename: assets/KR6i0266_001-T.markers.yaml, hash: 'sha256:5fbe34a0724e954442480d7d1c2f9252b5a7014a2d7643138c54653317e62231'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0266_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 2966
+  label: 佛說放鉢經
+  type: juan
+  level: 1
+hash: sha256:b44d8a8e25784666e6a7579794941416f37bbd0c74a58b4050da762dc1561d0b

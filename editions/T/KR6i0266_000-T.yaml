@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0266/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說放鉢經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T15/T15n0629.xml
+    old_id: T15n0629
+hash: sha256:e84a5d3db6a36c1319df6d69ed974d289a9d17c6f5a75151da2af87715a3240f
